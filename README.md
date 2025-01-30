@@ -14,8 +14,8 @@ Simple configuration for ease of use.
 
 Installation
 Clone the repository:
-git clone 
-cd tws-python-trading
+git clone https://github.com/itsPraveenswork/Interactivebroker.git
+
 Set up Python environment: Create a virtual environment and install the required libraries:
 python3 -m venv venv
 source venv/bin/activate   # For Mac/Linux
