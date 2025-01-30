@@ -14,7 +14,7 @@ Simple configuration for ease of use.
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/tws-python-trading.git
+git clone 
 cd tws-python-trading
 Set up Python environment: Create a virtual environment and install the required libraries:
 python3 -m venv venv
